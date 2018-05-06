@@ -10,6 +10,7 @@
   "dependencies": {
     "buefy": "^0.6.5",
     "vue": "^2.5.16",
+    "vue-material-design-icons": "^1.4.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {

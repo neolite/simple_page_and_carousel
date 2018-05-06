@@ -2,6 +2,9 @@
   <nav class="navbar is-fixed-top is-primary" role="navigation" aria-label="main navigation">
 
   <div class="navbar-brand">
+    <span class="navbar-item">
+      &nbsp;
+    </span>
     <div class="navbar-burger burger" :class="{ 'is-active': selected }" data-target="navMenu" @click="selected=!selected">
       <span></span>
       <span></span>
